@@ -5,6 +5,9 @@ npm install
 ng serve
 ```
 
+# Augury
+https://augury.rangle.io/
+
 # Git
 ```
 git init
