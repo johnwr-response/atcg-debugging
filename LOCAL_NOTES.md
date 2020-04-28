@@ -1,3 +1,10 @@
+# Init
+```
+npm install
+# npm install --save-dev @angular-devkit/build-angular # (Possibly needed)
+ng serve
+```
+
 # Git
 ```
 git init
